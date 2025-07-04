@@ -22,6 +22,9 @@ We’ve moved to a fully maintained and regularly updated documentation site.
 
 
 This tutorial assumes you have Docker, VSCode, git and npm installed.
+For a quick reference on installing these dependencies on macOS and Linux—and
+how to create the required `.env` files—see
+[the platform prerequisites guide](docs/content/setup/dependencies-mac-linux.md).
 
 ### 🧱 AutoGPT Frontend
 
